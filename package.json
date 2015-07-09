@@ -1,0 +1,29 @@
+{
+  "name": "rum-datascript-prototype",
+  "version": "1.0.0",
+  "description": "bootstrap a rum datascript figwheel app",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.13.3",
+    "react-tap-event-plugin": "^0.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmp26/rdp.git"
+  },
+  "keywords": [
+    "rum",
+    "datascript",
+    "figwheel"
+  ],
+  "author": "gmp26",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmp26/rdp/issues"
+  },
+  "homepage": "https://github.com/gmp26/rdp#readme"
+}
